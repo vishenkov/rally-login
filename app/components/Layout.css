@@ -1,0 +1,12 @@
+body {
+  /* background-image: none; */
+}
+
+.loading {
+  margin-left: 45vw;
+  margin-top: 45vh;
+}
+
+.table {
+  padding: 15px;
+}

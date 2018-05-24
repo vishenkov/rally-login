@@ -1,0 +1,7 @@
+.calogo {
+  max-width: 100%;
+  height: 60px;
+  border: 0;
+  background: transparent url('../resources/images/login-ca-logo.png') no-repeat;
+  background-size: contain;
+}
